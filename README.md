@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Manas Mishra!
 
-<!--
-**manasmishra203/manasmishra203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 B.Tech in Computer Science and Engineering  
+🏫 VIT Bhopal University  
+📚 First Year | Second Semester  
+📍 Bhopal, Madhya Pradesh  
 
-Here are some ideas to get you started:
+## What I Hope to Learn
+I hope to learn how to build intelligent systems and software development using Machine Learning and AI that can solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/manas-mishra-203as59
+GitHub: https://https://github.com/manasmishra203
